@@ -1,0 +1,16 @@
+@charset "ISO-8859-1";
+@import url('https://fonts.googleapis.com/css?family=Nunito+Sans:300,400,600,700,800&display=swap')
+
+*{
+	margin: 0;
+	padding : 0;
+	box-sizing : border-box;
+}
+
+body{
+	font-family: Nunito sans;
+	background : url('../assets/bookslist.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+

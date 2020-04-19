@@ -1,0 +1,26 @@
+@charset "ISO-8859-1";
+
+body{
+	text-align:center;
+	background : url('../assets/authorhomebg.jpeg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-family: Nunito sans;
+}
+
+h2 a{
+	text-decoration:none;
+	color: white;
+}
+
+h2{
+	padding:5px
+}
+
+
+.container h1{
+	background-color:blue;
+}
+h1{
+	color:white;
+}

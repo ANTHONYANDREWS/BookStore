@@ -1,0 +1,36 @@
+@charset "ISO-8859-1";
+
+*{
+	margin: 0;
+	padding : 0;
+	box-sizing : border-box;
+}
+
+body{
+	font-family: Nunito sans;
+	background : url('../assets/bookbcg.png');
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+}
+
+nav{
+	display:flex;
+	justify-content: space-between;
+	padding: 16px 80px;
+	background-color: white;
+}
+
+nav ul{
+	display:flex;
+	list-style: none;
+	width: 150px;
+	justify-content: space-between;
+	align-items:center;
+	
+}
+
+nav ul a{
+	text-decoration:none;
+	color: black;
+}
